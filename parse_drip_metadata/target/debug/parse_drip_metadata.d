@@ -1,0 +1,1 @@
+/Users/loc.dinh.nguyen/Documents/SkyMavis/stuff/drip_metadata_test/parse_drip_metadata/target/debug/parse_drip_metadata: /Users/loc.dinh.nguyen/Documents/SkyMavis/stuff/drip_metadata_test/parse_drip_metadata/src/main.rs
