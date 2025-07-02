@@ -1,9 +1,0 @@
-/Users/loc.dinh.nguyen/Documents/SkyMavis/stuff/drip_metadata_test/parse_drip_metadata/target/debug/deps/libsocket2-215163e9ee8ef9a8.rmeta: /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs
-
-/Users/loc.dinh.nguyen/Documents/SkyMavis/stuff/drip_metadata_test/parse_drip_metadata/target/debug/deps/socket2-215163e9ee8ef9a8.d: /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs /Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs
-
-/Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs:
-/Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs:
-/Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs:
-/Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs:
-/Users/loc.dinh.nguyen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs:
